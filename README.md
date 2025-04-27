@@ -9,7 +9,7 @@ Change your device bootanimation to Nusantara LTS bootanimation. Bootanimation p
 
 
 ## Download :
-To download this module, please go to the [Release page](https://github.com/KeishaXD/Nusantara-LTS-Boot-Animation/releases/lattest)
+To download this module, please go to the [Release page](https://github.com/KeishaXD/Nusantara-LTS-Boot-Animation/releases/latest)
 
 ## Credit :
 - [Cool_modules](https://t.me/bootanimations_group) @Telegram for module template
