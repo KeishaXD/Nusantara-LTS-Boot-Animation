@@ -12,5 +12,5 @@ Change your device bootanimation to Nusantara LTS bootanimation. Bootanimation p
 To download this module, please go to the [Release page](https://github.com/KeishaXD/Nusantara-LTS-Boot-Animation/releases/latest)
 
 ## Credit :
-- [Cool_modules](https://t.me/bootanimations_group) @Telegram for module template
+- [Cool_modules](https://t.me/bootanimations_group) for module template
 - [Nusantara Official](https://nusantararom.org/) for bootanimation 
