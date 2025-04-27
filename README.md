@@ -11,4 +11,4 @@ To download this module, please go to the [Release page](https://github.com/Keis
 
 ## Credit :
 - [Cool_modules](https://t.me/bootanimations_group) for module template
-- [Nusantara Official](https://nusantararom.org/) for bootanimation 
+- [Nusantara Rom](https://nusantararom.org/) for bootanimation 
