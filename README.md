@@ -1,8 +1,6 @@
 <p align="center">
-<img alt="A11-12 Bug Fix Banner" src="banner.jpg">
+<img alt="Banner" src="banner.jpg">
 </p>
-
-[![A11-12 Bug Fix](https://img.shields.io/github/stars/KeishaXD/A11-12-Bug-Fix-Realme-C21Y)]([[https://github.com/KeishaXD/A11-12-Bug-Fix-Realme-C21Y])
 
 ## Bootanimation Nusantara LTS
 Change your device bootanimation to Nusantara LTS bootanimation. Bootanimation ported from Rom Nusantara LTS Official from Redmi Note 5a (Ulysee) device
